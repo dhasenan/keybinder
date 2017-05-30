@@ -3,7 +3,7 @@
 	"authors": [
 		"dhasenan"
 	],
-	"description": "A minimal D application.",
+	"description": "X11+GTK global keybindings",
 	"copyright": "Copyright © 2017, dhasenan",
 	"license": "public domain",
 	"libs-posix": ["keybinder-3"]
